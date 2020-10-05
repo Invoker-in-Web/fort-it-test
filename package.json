@@ -1,0 +1,24 @@
+{
+  "name": "fort-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.17.3",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.5",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.14.5",
+    "scss-loader": "0.0.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-material-design-icons": "^4.9.0"
+  },
+  "devDependencies": {
+    "sass-loader": "^10.0.2"
+  }
+}
